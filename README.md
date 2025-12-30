@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Thank you for visiting my profile. 
+I’m data analyst with diverse range of experience. I’m always eager to learn and I’m easily trainable. 
+My experience includes PL/SQL and T-SQL development, ETL workflows using KNIME and Power Query, SAP data extraction, KPI reporting, and financial analytics.
+I’m currently preparing for the Microsoft PL-300 certification and further developing my skills in BI and data engineering.
