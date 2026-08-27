@@ -27,10 +27,10 @@ Hello, I’m Dijana. I’m a Microsoft Certified Data Analyst with a diverse bac
 Welcome to my portfolio, currently I'm adding my previous work.  
 
 🛠️ Tools
-Programming & Scripting: PL/SQL, T-SQL, C# (.NET), HTML, CSS, JavaScript
-Databases & Development Tools: Oracle SQL Developer, TOAD for Oracle, Microsoft SQL Server Management Studio (SSMS), SAP
-Business Intelligence & Visualization: Power BI
-ETL, Data Transformation & Automation: Power Query, KNIME Analytics Platform, Microsoft Fabric, UiPath (basic)
+- Programming & Scripting: PL/SQL, T-SQL, C# (.NET), HTML, CSS, JavaScript
+- Databases & Development Tools: Oracle SQL Developer, TOAD for Oracle, Microsoft SQL Server Management Studio (SSMS), SAP
+- Business Intelligence & Visualization: Power BI
+- ETL, Data Transformation & Automation: Power Query, KNIME Analytics Platform, Microsoft Fabric, UiPath (basic)
 
 💼 Let's Connect
 
