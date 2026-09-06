@@ -19,7 +19,7 @@ Hello, I’m Dijana. I’m a Microsoft Certified Data Analyst with a diverse bac
 
 - Developing complex data analysis and reporting solutions using PL/SQL and T-SQL
 - Writing SQL queries for data extraction, transformation, analysis, and reporting
-- Building Power BI dashboards and KPI reports for financial and operational analysis
+- Building Power BI dashboards and KPI reports for financial and operational analysis ![Power BI](https://shields.io)
 - Creating data models and developing DAX measures to support interactive and insightful reporting
 - Transforming and preparing data using Power Query
 - Building ETL workflows using KNIME Analytics Platform and Power Query
@@ -28,7 +28,7 @@ Hello, I’m Dijana. I’m a Microsoft Certified Data Analyst with a diverse bac
 
 ## 📚 Projects
 
-Welcome to my portfolio! I’m currently adding some of my previous work and projects, so stay tuned.
+Welcome to my portfolio! I’m currently adding some of my previous work and [projects](https://github.com/DijanaLozanoska/lana-del-rey-spotify-analysis), so stay tuned.
 
 
 ## 🛠️ Tools
