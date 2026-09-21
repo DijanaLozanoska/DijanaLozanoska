@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 
 ## 👋 About Me
 
-Hello, I’m Dijana. I’m a Microsoft Certified Data Analyst with a diverse background in data analytics, SQL development, and business intelligence, with a strong focus on turning data into meaningful insights and actionable reporting.
+Hello, I’m Dijana. I’m a Microsoft Certified Data Analyst with a diverse background in data analytics, SQL development and business intelligence, with a strong focus on turning data into meaningful insights and actionable reporting.
 
 - Developing complex data analysis and reporting solutions using PL/SQL and T-SQL
-- Writing SQL queries for data extraction, transformation, analysis, and reporting
+- Writing SQL queries for data extraction, transformation, analysis and reporting
 - Building Power BI dashboards and KPI reports for financial and operational analysis ![Power BI](https://shields.io)
 - Creating data models and developing DAX measures to support interactive and insightful reporting
 - Transforming and preparing data using Power Query
