@@ -19,7 +19,7 @@ Hello, I’m Dijana. I’m a Microsoft Certified Data Analyst with a diverse bac
 
 - Developing complex data analysis and reporting solutions using PL/SQL and T-SQL
 - Writing SQL queries for data extraction, transformation, analysis and reporting
-- Building Power BI dashboards and KPI reports for financial and operational analysis ![Power BI](https://shields.io)
+- Building Power BI dashboards and KPI reports for financial and operational analysis
 - Creating data models and developing DAX measures to support interactive and insightful reporting
 - Transforming and preparing data using Power Query
 - Building ETL workflows using KNIME Analytics Platform and Power Query
